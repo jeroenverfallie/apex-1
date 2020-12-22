@@ -4,7 +4,7 @@ package rollback
 import (
 	"github.com/tj/cobra"
 
-	"github.com/apex/apex/cmd/apex/root"
+	"github.com/friendbuy/apex-1/cmd/apex/root"
 )
 
 // alias.

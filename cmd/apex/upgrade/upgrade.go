@@ -4,9 +4,9 @@ package upgrade
 import (
 	"github.com/tj/cobra"
 
-	"github.com/apex/apex/cmd/apex/root"
-	"github.com/apex/apex/cmd/apex/version"
-	"github.com/apex/apex/upgrade"
+	"github.com/friendbuy/apex-1/cmd/apex/root"
+	"github.com/friendbuy/apex-1/cmd/apex/version"
+	"github.com/friendbuy/apex-1/upgrade"
 )
 
 // Command config.

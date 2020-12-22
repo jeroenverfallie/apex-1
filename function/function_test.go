@@ -4,13 +4,13 @@ import (
 	"errors"
 	"testing"
 
-	_ "github.com/apex/apex/plugins/golang"
-	_ "github.com/apex/apex/plugins/hooks"
-	_ "github.com/apex/apex/plugins/inference"
-	_ "github.com/apex/apex/plugins/nodejs"
-	_ "github.com/apex/apex/plugins/python"
-	_ "github.com/apex/apex/plugins/ruby"
-	_ "github.com/apex/apex/plugins/shim"
+	_ "github.com/friendbuy/apex-1/plugins/golang"
+	_ "github.com/friendbuy/apex-1/plugins/hooks"
+	_ "github.com/friendbuy/apex-1/plugins/inference"
+	_ "github.com/friendbuy/apex-1/plugins/nodejs"
+	_ "github.com/friendbuy/apex-1/plugins/python"
+	_ "github.com/friendbuy/apex-1/plugins/ruby"
+	_ "github.com/friendbuy/apex-1/plugins/shim"
 
 	"github.com/apex/log"
 	"github.com/apex/log/handlers/discard"
@@ -20,9 +20,9 @@ import (
 	"github.com/golang/mock/gomock"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/apex/apex/function"
-	"github.com/apex/apex/mock"
-	"github.com/apex/apex/utils"
+	"github.com/friendbuy/apex-1/function"
+	"github.com/friendbuy/apex-1/mock"
+	"github.com/friendbuy/apex-1/utils"
 )
 
 func init() {

@@ -6,8 +6,8 @@ import (
 
 	"github.com/tj/cobra"
 
-	"github.com/apex/apex/cmd/apex/root"
-	"github.com/apex/apex/utils"
+	"github.com/friendbuy/apex-1/cmd/apex/root"
+	"github.com/friendbuy/apex-1/utils"
 )
 
 // env vars.

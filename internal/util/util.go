@@ -26,7 +26,7 @@ import (
 	"github.com/tj/go/term"
 	"golang.org/x/net/publicsuffix"
 
-	"github.com/apex/apex/internal/colors"
+	"github.com/friendbuy/apex-1/internal/colors"
 )
 
 // Fields retained when clearing.

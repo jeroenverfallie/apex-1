@@ -9,8 +9,8 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/apex/apex/archive"
-	"github.com/apex/apex/function"
+	"github.com/friendbuy/apex-1/archive"
+	"github.com/friendbuy/apex-1/function"
 )
 
 func init() {

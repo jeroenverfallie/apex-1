@@ -4,7 +4,7 @@ package golang
 import (
 	"strings"
 
-	"github.com/apex/apex/function"
+	"github.com/friendbuy/apex-1/function"
 )
 
 func init() {

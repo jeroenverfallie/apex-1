@@ -2,7 +2,7 @@
 package service
 
 import (
-	"github.com/apex/apex/dryrun"
+	"github.com/friendbuy/apex-1/dryrun"
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/lambda"
