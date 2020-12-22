@@ -274,8 +274,8 @@ End of functions from https://github.com/client9/shlib
 ------------------------------------------------------------------------
 EOF
 
-OWNER=apex
-REPO=apex
+OWNER=friendbuy
+REPO=apex-1
 BINARY=apex
 FORMAT=tar.gz
 OS=$(uname_os)
