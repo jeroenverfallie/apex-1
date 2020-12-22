@@ -1,4 +1,3 @@
-
 # No longer maintained
 
 This software is no longer being maintainted and should not be chosen for new projects. See this [issue](https://github.com/friendbuy/apex-1/issues/932) for more information
@@ -18,6 +17,7 @@ curl https://raw.githubusercontent.com/friendbuy/apex-1/master/install.sh | sh
 ```
 
 Note that you may need to run the `sudo` version below, or alternatively chown `/usr/local`:
+
 ```
 curl https://raw.githubusercontent.com/friendbuy/apex-1/master/install.sh | sudo sh
 ```
@@ -44,7 +44,7 @@ Currently supports:
 - Rust
 - Clojure
 
-Example projects for all supported runtimes can be found in [_examples](_examples) directory.
+Example projects for all supported runtimes can be found in [\_examples](_examples) directory.
 
 ## Features
 
@@ -75,46 +75,46 @@ Example projects for all supported runtimes can be found in [_examples](_example
 
 Does your company use Apex? Help keep the project bug-free and feature rich by [sponsoring the project](https://opencollective.com/apex#sponsor).
 
-  <a href="https://opencollective.com/apex/sponsors/0/website" target="_blank"><img src="https://opencollective.com/apex/sponsors/0/avatar"></a>
-  <a href="https://opencollective.com/apex/sponsors/1/website" target="_blank"><img src="https://opencollective.com/apex/sponsors/1/avatar"></a>
-  <a href="https://opencollective.com/apex/sponsors/2/website" target="_blank"><img src="https://opencollective.com/apex/sponsors/2/avatar"></a>
-  <a href="https://opencollective.com/apex/sponsors/3/website" target="_blank"><img src="https://opencollective.com/apex/sponsors/3/avatar"></a>
-  <a href="https://opencollective.com/apex/sponsors/4/website" target="_blank"><img src="https://opencollective.com/apex/sponsors/4/avatar"></a>
+<a href="https://opencollective.com/apex/sponsors/0/website" target="_blank"><img src="https://opencollective.com/apex/sponsors/0/avatar"></a>
+<a href="https://opencollective.com/apex/sponsors/1/website" target="_blank"><img src="https://opencollective.com/apex/sponsors/1/avatar"></a>
+<a href="https://opencollective.com/apex/sponsors/2/website" target="_blank"><img src="https://opencollective.com/apex/sponsors/2/avatar"></a>
+<a href="https://opencollective.com/apex/sponsors/3/website" target="_blank"><img src="https://opencollective.com/apex/sponsors/3/avatar"></a>
+<a href="https://opencollective.com/apex/sponsors/4/website" target="_blank"><img src="https://opencollective.com/apex/sponsors/4/avatar"></a>
 
 ## Backers
 
 Love our work and community? [Become a backer](https://opencollective.com/apex).
 
-  <a href="https://opencollective.com/apex/backers/0/website" target="_blank"><img src="https://opencollective.com/apex/backers/0/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/1/website" target="_blank"><img src="https://opencollective.com/apex/backers/1/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/2/website" target="_blank"><img src="https://opencollective.com/apex/backers/2/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/3/website" target="_blank"><img src="https://opencollective.com/apex/backers/3/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/4/website" target="_blank"><img src="https://opencollective.com/apex/backers/4/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/5/website" target="_blank"><img src="https://opencollective.com/apex/backers/5/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/6/website" target="_blank"><img src="https://opencollective.com/apex/backers/6/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/7/website" target="_blank"><img src="https://opencollective.com/apex/backers/7/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/8/website" target="_blank"><img src="https://opencollective.com/apex/backers/8/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/9/website" target="_blank"><img src="https://opencollective.com/apex/backers/9/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/10/website" target="_blank"><img src="https://opencollective.com/apex/backers/10/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/11/website" target="_blank"><img src="https://opencollective.com/apex/backers/11/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/12/website" target="_blank"><img src="https://opencollective.com/apex/backers/12/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/13/website" target="_blank"><img src="https://opencollective.com/apex/backers/13/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/14/website" target="_blank"><img src="https://opencollective.com/apex/backers/14/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/15/website" target="_blank"><img src="https://opencollective.com/apex/backers/15/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/16/website" target="_blank"><img src="https://opencollective.com/apex/backers/16/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/17/website" target="_blank"><img src="https://opencollective.com/apex/backers/17/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/18/website" target="_blank"><img src="https://opencollective.com/apex/backers/18/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/19/website" target="_blank"><img src="https://opencollective.com/apex/backers/19/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/20/website" target="_blank"><img src="https://opencollective.com/apex/backers/20/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/21/website" target="_blank"><img src="https://opencollective.com/apex/backers/21/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/22/website" target="_blank"><img src="https://opencollective.com/apex/backers/22/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/23/website" target="_blank"><img src="https://opencollective.com/apex/backers/23/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/24/website" target="_blank"><img src="https://opencollective.com/apex/backers/24/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/25/website" target="_blank"><img src="https://opencollective.com/apex/backers/25/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/26/website" target="_blank"><img src="https://opencollective.com/apex/backers/26/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/27/website" target="_blank"><img src="https://opencollective.com/apex/backers/27/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/28/website" target="_blank"><img src="https://opencollective.com/apex/backers/28/avatar"></a>
-  <a href="https://opencollective.com/apex/backers/29/website" target="_blank"><img src="https://opencollective.com/apex/backers/29/avatar"></a>
+<a href="https://opencollective.com/apex/backers/0/website" target="_blank"><img src="https://opencollective.com/apex/backers/0/avatar"></a>
+<a href="https://opencollective.com/apex/backers/1/website" target="_blank"><img src="https://opencollective.com/apex/backers/1/avatar"></a>
+<a href="https://opencollective.com/apex/backers/2/website" target="_blank"><img src="https://opencollective.com/apex/backers/2/avatar"></a>
+<a href="https://opencollective.com/apex/backers/3/website" target="_blank"><img src="https://opencollective.com/apex/backers/3/avatar"></a>
+<a href="https://opencollective.com/apex/backers/4/website" target="_blank"><img src="https://opencollective.com/apex/backers/4/avatar"></a>
+<a href="https://opencollective.com/apex/backers/5/website" target="_blank"><img src="https://opencollective.com/apex/backers/5/avatar"></a>
+<a href="https://opencollective.com/apex/backers/6/website" target="_blank"><img src="https://opencollective.com/apex/backers/6/avatar"></a>
+<a href="https://opencollective.com/apex/backers/7/website" target="_blank"><img src="https://opencollective.com/apex/backers/7/avatar"></a>
+<a href="https://opencollective.com/apex/backers/8/website" target="_blank"><img src="https://opencollective.com/apex/backers/8/avatar"></a>
+<a href="https://opencollective.com/apex/backers/9/website" target="_blank"><img src="https://opencollective.com/apex/backers/9/avatar"></a>
+<a href="https://opencollective.com/apex/backers/10/website" target="_blank"><img src="https://opencollective.com/apex/backers/10/avatar"></a>
+<a href="https://opencollective.com/apex/backers/11/website" target="_blank"><img src="https://opencollective.com/apex/backers/11/avatar"></a>
+<a href="https://opencollective.com/apex/backers/12/website" target="_blank"><img src="https://opencollective.com/apex/backers/12/avatar"></a>
+<a href="https://opencollective.com/apex/backers/13/website" target="_blank"><img src="https://opencollective.com/apex/backers/13/avatar"></a>
+<a href="https://opencollective.com/apex/backers/14/website" target="_blank"><img src="https://opencollective.com/apex/backers/14/avatar"></a>
+<a href="https://opencollective.com/apex/backers/15/website" target="_blank"><img src="https://opencollective.com/apex/backers/15/avatar"></a>
+<a href="https://opencollective.com/apex/backers/16/website" target="_blank"><img src="https://opencollective.com/apex/backers/16/avatar"></a>
+<a href="https://opencollective.com/apex/backers/17/website" target="_blank"><img src="https://opencollective.com/apex/backers/17/avatar"></a>
+<a href="https://opencollective.com/apex/backers/18/website" target="_blank"><img src="https://opencollective.com/apex/backers/18/avatar"></a>
+<a href="https://opencollective.com/apex/backers/19/website" target="_blank"><img src="https://opencollective.com/apex/backers/19/avatar"></a>
+<a href="https://opencollective.com/apex/backers/20/website" target="_blank"><img src="https://opencollective.com/apex/backers/20/avatar"></a>
+<a href="https://opencollective.com/apex/backers/21/website" target="_blank"><img src="https://opencollective.com/apex/backers/21/avatar"></a>
+<a href="https://opencollective.com/apex/backers/22/website" target="_blank"><img src="https://opencollective.com/apex/backers/22/avatar"></a>
+<a href="https://opencollective.com/apex/backers/23/website" target="_blank"><img src="https://opencollective.com/apex/backers/23/avatar"></a>
+<a href="https://opencollective.com/apex/backers/24/website" target="_blank"><img src="https://opencollective.com/apex/backers/24/avatar"></a>
+<a href="https://opencollective.com/apex/backers/25/website" target="_blank"><img src="https://opencollective.com/apex/backers/25/avatar"></a>
+<a href="https://opencollective.com/apex/backers/26/website" target="_blank"><img src="https://opencollective.com/apex/backers/26/avatar"></a>
+<a href="https://opencollective.com/apex/backers/27/website" target="_blank"><img src="https://opencollective.com/apex/backers/27/avatar"></a>
+<a href="https://opencollective.com/apex/backers/28/website" target="_blank"><img src="https://opencollective.com/apex/backers/28/avatar"></a>
+<a href="https://opencollective.com/apex/backers/29/website" target="_blank"><img src="https://opencollective.com/apex/backers/29/avatar"></a>
 
 ## Example
 
@@ -167,10 +167,10 @@ functions
 Finally the source for the functions themselves look like this in Node.js:
 
 ```js
-console.log('start bar')
-exports.handle = function(e, ctx) {
-  ctx.succeed({ hello: e.name })
-}
+console.log("start bar");
+exports.handle = function (e, ctx) {
+  ctx.succeed({ hello: e.name });
+};
 ```
 
 Apex operates at the project level, but many commands allow you to specify specific functions. For example you may deploy the entire project with a single command:
@@ -207,5 +207,24 @@ See the [Documentation](http://apex.run) for more information.
 [![GoDoc](https://godoc.org/github.com/friendbuy/apex-1?status.svg)](https://godoc.org/github.com/friendbuy/apex-1)
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
 ![](https://img.shields.io/badge/status-stable-green.svg) [![OpenCollective](https://opencollective.com/apex/backers/badge.svg)](#backers) [![OpenCollective](https://opencollective.com/apex/sponsors/badge.svg)](#sponsors)
+
+## Friendbuy additions
+
+This project is no longer maintained but it is a part of friend buy's infrastructure. As such we needed to host this ourselves as well as manage our own releases.
+
+### Building
+
+First you must have golang installed with your GOPATH set. There are numerous was to do this, you can use the guide at the address here: `https://golang.org/doc/install` or use something like home brew.
+
+Once installed, navigate into the `PROJECT ROOT/cmd/apex` (where the main.go file is located) and simply run `go build`.
+
+#### Cross compiling
+
+For the purposes we have at friendbuy pertaining to our builds and containers we must cross compile for linux on x86 thus the following command must be run:
+`GOOS=linux GOARCH=amd64 go build`
+
+#### Tarball structure
+
+Our tarball structure is simply a gzip tar file that only contains the binary for the build outputted by the commands stated above.
 
 <a href="https://apex.sh"><img src="http://tjholowaychuk.com:6000/svg/sponsor"></a>
